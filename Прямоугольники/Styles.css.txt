@@ -1,0 +1,18 @@
+div{
+font-size:10pt;
+}
+.quad1{color:white;
+	 background-color:red;
+	 height:50px;
+	 width:150px
+}   
+.quad2{color:white;
+	 background-color:black;
+	 height:50px;
+	 width:50px
+}
+.quad3{color:white;
+	 background-color:green;
+	 height:50px;
+	 width:50px
+}
